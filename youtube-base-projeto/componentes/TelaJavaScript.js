@@ -20,12 +20,13 @@ export default function TelaJavaScript (x) {
 
         <View style = { estilo.boxBotoes }>
           <Button 
-            color={"#3FD"}
+            color={"#000000"}
             title="Front-end" 
             onPress = { ()=>x.navigation.navigate('React') } 
           />
           
           <Button 
+           color={"#000000"}
             title="Back-end" 
             onPress = { ()=>x.navigation.navigate('Node') } 
           />

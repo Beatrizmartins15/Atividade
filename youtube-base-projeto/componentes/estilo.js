@@ -25,7 +25,7 @@ const estilo = StyleSheet.create({
   },
 
   corBotao: {
-    backgroundColor: "#fff",
+    backgroundColor: "#98FB98",
     fontWeight: "bold",
     fontSize: 33
   },
