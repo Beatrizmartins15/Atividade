@@ -24,6 +24,12 @@ const estilo = StyleSheet.create({
     flex:1
   },
 
+  corBotao: {
+    backgroundColor: "#fff",
+    fontWeight: "bold",
+    fontSize: 33
+  },
+
   logo: {
     width: 100,
     height: 100,
@@ -35,6 +41,8 @@ const estilo = StyleSheet.create({
     flexDirection: "row",
     width: 300,
     justifyContent: "space-around"
+    
+
   },
 
   titulo: {
